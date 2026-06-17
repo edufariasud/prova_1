@@ -1,0 +1,22 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Python / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Bancos de dados locais (SQLite)
+*.db
+*.sqlite3
+
+# Arquivos de ambiente
+.env
+
+# SO
+.DS_Store
